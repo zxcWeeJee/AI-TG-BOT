@@ -31,6 +31,6 @@ AI-бот, работающий на Together AI, поддерживает ра�
 ```bash
 git clone https://github.com/zxcWeeJee/AI-TG-BOT.git
 cd AI-TG-BOT
-pip install -r requirements.txt```
+pip install -r requirements.txt
 cp .env.example .env  # и заполните своими токенами
 python bot.py
